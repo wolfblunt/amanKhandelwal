@@ -401,7 +401,7 @@ const App = () => {
                                 Beyond my professional life, I am an avid cricket enthusiast, love traveling, enjoy watching movies, and have a passion for cooking. My academic achievements include qualifying for GATE with a 97 percentile among 1 lakh students, reflecting my dedication and commitment to excellence.
                                 </p>
                             </div>
-                            <TechyDownloadButton url="https://drive.google.com/file/d/1osOZVvWtLNTc4l-dLJ7m2624gHESWVl0/view?usp=sharing" />
+                            <TechyDownloadButton url="https://drive.google.com/file/d/15Sy3TIF0EohKxAtBBH-QikZVrxfw5LIy/view?usp=sharing" />
                         </section>
 
                         <SkillsSection skillCategories={skillCategories} />
